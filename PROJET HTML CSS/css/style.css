@@ -1,0 +1,41 @@
+/* 
+Commentaire 
+
+Syntaxe du CSS :
+
+
+selecteur css{
+	propriete css:  valeur;
+	propriete css:  valeur;
+	propriete css:  valeur;
+	propriete css:  valeur;
+}
+
+*/
+
+h1{
+	background-color: yellow;
+	color: rgb(255,255,255) !important;
+}
+
+h1{
+	color: green;
+}
+
+body{
+	background-color: #FFFFFF;
+	color: rgba(0,0,0,0.5);
+}
+
+
+#orangeParaph{
+	background-color: orange;
+}
+
+.whiteParaph{
+	background-color: white;
+}
+
+.underlineParaph{
+	text-decoration: underline;
+}
