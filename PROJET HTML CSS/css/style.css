@@ -13,9 +13,16 @@ selecteur css{
 
 */
 
+@font-face{
+	src: url("BebasNeue-Regular.ttf");
+	font-family: "beba";
+}
+
+
 h1{
-	background-color: yellow;
+	background-color: black;
 	color: rgb(255,255,255) !important;
+	font-family: "beba";
 }
 
 h1{
@@ -30,6 +37,7 @@ body{
 
 #orangeParaph{
 	background-color: orange;
+	font-family: 'Island Moments', cursive;
 }
 
 .whiteParaph{

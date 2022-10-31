@@ -1,0 +1,17 @@
+
+
+.customBtn{
+	color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-decoration: none;
+	background-color: black;
+	padding: 5px;
+	box-shadow: 3px 5px 13px 0px black;
+}
+
+
+.customBtn:hover{
+	color: black;
+	background-color: white;
+}
